@@ -1,3 +1,5 @@
 Useful links:
 
 https://github.com/Tushar-Nagar-64/RT1/tree/master/ready_trader_one
+
+https://blog.hummingbot.org/2021-04-avellaneda-stoikov-market-making-strategy/
